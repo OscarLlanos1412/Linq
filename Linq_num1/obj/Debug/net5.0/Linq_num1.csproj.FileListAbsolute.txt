@@ -1,0 +1,16 @@
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.exe
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.deps.json
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.runtimeconfig.json
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.dll
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\ref\Linq_num1.dll
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\bin\Debug\net5.0\Linq_num1.pdb
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.AssemblyInfo.cs
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.dll
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\ref\Linq_num1.dll
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.pdb
+C:\Users\oscar\source\repos\Linq_num1\Linq_num1\obj\Debug\net5.0\Linq_num1.genruntimeconfig.cache
